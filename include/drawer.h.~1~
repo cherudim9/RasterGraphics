@@ -1,0 +1,10 @@
+#ifndef DRAWER_H_
+#define DRAWER_H_
+
+#include "basic_geometry.h"
+
+void DrawLine(const TPoint2d &end1, const TPoint2d &end2, TPoint** result){
+  
+}
+
+#endif
